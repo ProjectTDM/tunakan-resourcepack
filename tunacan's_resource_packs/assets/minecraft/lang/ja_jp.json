@@ -3,6 +3,8 @@
   "item.keiba_assistant.whip2":"2番ゲート用鞭",
   "item.keiba_assistant.whip3":"3番ゲート用鞭",
   "item.keiba_assistant.whip4":"4番ゲート用鞭",
+  "scoreboard.keiba_assistant.whip": "ブースト使用可能回数",
+  "scoreboard.keiba_assistant.time": "競馬（秒）",
   "title.keiba_assistant.ready_start": "スタートまで",
   "title.keiba_assistant.cant_use":"もうこれ以上使えない！",
   "title.keiba_assistant.boost":"残りブースト数:",

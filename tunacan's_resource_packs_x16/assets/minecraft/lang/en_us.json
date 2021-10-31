@@ -15,6 +15,8 @@
   "item.keiba_assistant.whip14":"Whip for gate 14",
   "item.keiba_assistant.whip15":"Whip for gate 15",
   "item.keiba_assistant.whip16":"Whip for gate 16",
+  "scoreboard.keiba_assistant.whip": "Number of boosts available",
+  "scoreboard.keiba_assistant.time": "Horse Racing(sec)",
   "title.keiba_assistant.ready_start": "seconds to the start of the race.",
   "title.keiba_assistant.cant_use":"I can't use it any more!",
   "title.keiba_assistant.boost":"Boosts remaining:",
