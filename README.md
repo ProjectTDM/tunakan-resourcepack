@@ -1,4 +1,4 @@
-# tunacan-resourcepacks
+# tunacan-resourcepacks ![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange)
 公開しているデータパックに基本的に必須なリソースパック
 
 ## ※注意
