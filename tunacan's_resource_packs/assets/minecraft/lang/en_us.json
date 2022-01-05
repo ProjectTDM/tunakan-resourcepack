@@ -1,4 +1,6 @@
 {
+  "tellraw.tunakan.welcome":"%s installation complete!",
+  "tellraw.tunakan.creater":"[Created by %s]",
   "item.keiba_assistant.whip1":"Whip for gate 1",
   "item.keiba_assistant.whip2":"Whip for gate 2",
   "item.keiba_assistant.whip3":"Whip for gate 3",
@@ -9,6 +11,7 @@
   "title.keiba_assistant.cant_use":"I can't use it any more!",
   "title.keiba_assistant.boost":"Boosts remaining:",
   "title.keiba_assistant.start":"Start ! ! !",
+  "tellraw.keiba_assistant.welcome":"Horse Racing Assistant",
   "tellraw.keiba_assistant.death":"%s was incorrect, so he was retired.",
   "tellraw.keiba_assistant.foul":"%s was killed because he tried to cheat.",
   "tellraw.keiba_assistant.winner":"%s has crossed the finish line in rank %s %s!",
@@ -26,9 +29,5 @@
   "item.logintime.bonussalmon.name":"Bonus Salmon Jerky",
   "item.logintime.bonussalmon.lore1":"A magical salmon jerky that",
   "item.logintime.bonussalmon.lore2":"may become stronger the longer you log in.",
-  "item.mining_battle.pickaxe":"Adventure Pickaxe",
-  "item.mining_battle.shovel":"Adventure Shovel",
-  "item.mining_battle.axe":"Adventure Axe",
-  "item.mining_battle.shears":"Adventure Shears",
-  "item.mining_battle.stone":"Adventure Stone"
+  "tellraw.logintime.welcome":"Login bounus -Saketoba Edition!-"
 }

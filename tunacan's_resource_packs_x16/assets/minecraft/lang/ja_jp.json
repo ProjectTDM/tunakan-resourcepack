@@ -1,4 +1,6 @@
 {
+  "tellraw.tunakan.welcome":"%sのインストールが完了しました！",
+  "tellraw.tunakan.creater":"[Created by %s]",
   "item.keiba_assistant.whip1":"1番ゲート用鞭",
   "item.keiba_assistant.whip2":"2番ゲート用鞭",
   "item.keiba_assistant.whip3":"3番ゲート用鞭",
@@ -21,6 +23,7 @@
   "title.keiba_assistant.cant_use":"もうこれ以上使えない！",
   "title.keiba_assistant.boost":"残りブースト数:",
   "title.keiba_assistant.start":"スタート！ ！ ！",
+  "tellraw.keiba_assistant_color.welcome":"競馬アシスタント(カラー版)",
   "tellraw.keiba_assistant.death":"%sさんは不正解だったのでリタイアになった",
   "tellraw.keiba_assistant.foul":"%sは不正をしようとしたので殺された",
   "tellraw.keiba_assistant.winner":"%sさんが%s%sでゴールしました！",
@@ -38,9 +41,5 @@
   "item.logintime.bonussalmon.name":"ボーナス鮭とば",
   "item.logintime.bonussalmon.lore1":"ログイン時間が長くなるほど",
   "item.logintime.bonussalmon.lore2":"強くなるかもしれない魔法の鮭とば",
-  "item.mining_battle.pickaxe":"アドベンチャーピッケル",
-  "item.mining_battle.shovel":"アドベンチャーシャベル",
-  "item.mining_battle.axe":"アドベンチャー斧",
-  "item.mining_battle.shears":"アドベンチャーハサミ",
-  "item.mining_battle.stone":"アドベンチャー石"
+  "tellraw.logintime.welcome":"ログインボーナス -Saketoba Edition!-"
 }
