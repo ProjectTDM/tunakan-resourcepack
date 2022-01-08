@@ -1,5 +1,5 @@
 {
-  "tellraw.tunakan.welcome":"%sのインストールが完了しました！",
+  "tellraw.tunakan.welcome":"%s%sのインストールが完了しました！",
   "tellraw.tunakan.creater":"[Created by %s]",
   "item.keiba_assistant.whip1":"1番ゲート用鞭",
   "item.keiba_assistant.whip2":"2番ゲート用鞭",
