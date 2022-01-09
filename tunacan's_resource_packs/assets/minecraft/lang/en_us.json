@@ -1,5 +1,5 @@
 {
-  "tellraw.tunakan.welcome":"%s$s installation complete!",
+  "tellraw.tunakan.welcome":"%s%s installation complete!",
   "tellraw.tunakan.creater":"[Created by %s]",
   "item.keiba_assistant.whip1":"Whip for gate 1",
   "item.keiba_assistant.whip2":"Whip for gate 2",
