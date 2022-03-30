@@ -32,7 +32,7 @@
   "title.keiba_assistant.ready":"スタートまで",
   "title.keiba_assistant.boost":"ブースト残数：%s",
   "title.keiba_assistant.start":"スタート！ ！ ！",
-  "tellraw.keiba_assistant.welcome":"%s競馬アシスタント",
+  "tellraw.keiba_assistant_x18.welcome":"%s競馬アシスタント -18人版-",
   "tellraw.keiba_assistant.clear":"鞭を返却しました",
   "tellraw.keiba_assistant.clear.system":"この鞭は使用できないため返却されました",
   "tellraw.keiba_assistant.give":"%sを受け取りました",

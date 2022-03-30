@@ -33,7 +33,7 @@
   "title.keiba_assistant.ready":"seconds to the start of the race",
   "title.keiba_assistant.boost":"Boost remaining:%s",
   "title.keiba_assistant.start":"Start ! ! !",
-  "tellraw.keiba_assistant.welcome":"%sHorse Racing Assistant",
+  "tellraw.keiba_assistant_x18.welcome":"%sHorse Racing Assistant -18-person edition-",
   "tellraw.keiba_assistant.clear":"Whip returned",
   "tellraw.keiba_assistant.clear.system":"This whip was returned as unusable",
   "tellraw.keiba_assistant.give":"%s received",
