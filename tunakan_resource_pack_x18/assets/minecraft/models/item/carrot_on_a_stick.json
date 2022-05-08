@@ -20,6 +20,8 @@
     {"predicate":{"custom_model_data":13}, "model":"minecraft:item/whip_13"},
     {"predicate":{"custom_model_data":14}, "model":"minecraft:item/whip_14"},
     {"predicate":{"custom_model_data":15}, "model":"minecraft:item/whip_15"},
-    {"predicate":{"custom_model_data":16}, "model":"minecraft:item/whip_16"}
+    {"predicate":{"custom_model_data":16}, "model":"minecraft:item/whip_16"},
+    {"predicate":{"custom_model_data":17}, "model":"minecraft:item/whip_17"},
+    {"predicate":{"custom_model_data":18}, "model":"minecraft:item/whip_18"}
   ]
 }
