@@ -17,6 +17,7 @@
   "item.keiba_assistant.whipbook":"鞭の本",
   "item.keiba_assistant.resetsign":"リセット看板",
   "item.keiba_assistant.whipsign":"鞭の本看板",
+  "item.keiba_assistant.returnsign":"返却看板",
   "item.keiba_assistant.remain":"ブースト残数：%s / %s",
   "item.keiba_assistant.whip":"%s番ゲート用鞭",
   "scoreboard.keiba_assistant.remain":"ブースト使用可能回数",

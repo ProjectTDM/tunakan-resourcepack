@@ -17,6 +17,7 @@
   "item.keiba_assistant.whipbook":"Whip Book",
   "item.keiba_assistant.resetsign":"Reset Sign",
   "item.keiba_assistant.whipsign":"Whip Book Sign",
+  "item.keiba_assistant.returnsign":"Return Sign",
   "item.keiba_assistant.remain":"Boost remaining:%s / %s",
   "item.keiba_assistant.whip":"Whip for gate %s",
   "scoreboard.keiba_assistant.remain":"Number of boosts available",
