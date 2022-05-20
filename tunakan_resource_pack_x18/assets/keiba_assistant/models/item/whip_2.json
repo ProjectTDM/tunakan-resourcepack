@@ -1,6 +1,6 @@
 {
   "parent":"minecraft:item/handheld",
   "textures":{
-    "layer0":"minecraft:item/whip_17"
+    "layer0":"keiba_assistant:item/whip_2"
   }
 }
