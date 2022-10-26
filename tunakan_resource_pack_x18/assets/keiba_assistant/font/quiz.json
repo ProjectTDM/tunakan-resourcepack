@@ -1,0 +1,22 @@
+{
+    "providers":[
+        {
+            "type":"bitmap",
+            "file":"keiba_assistant:font/circle.png",
+            "ascent":47,
+            "height":47,
+            "chars":[
+                "\uE000"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"keiba_assistant:font/cross.png",
+            "ascent":47,
+            "height":47,
+            "chars":[
+                "\uE001"
+            ]
+        }
+    ]
+}

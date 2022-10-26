@@ -1,0 +1,8 @@
+{
+  "parent":"minecraft:block/command_block",
+
+  "overrides":[
+    {"predicate":{"custom_model_data":1}, "model":"keiba_assistant:item/keibag_coin"},
+    {"predicate":{"custom_model_data":2}, "model":"minecraft:block/command_block"}
+  ]
+}
