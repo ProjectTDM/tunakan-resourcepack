@@ -1,28 +1,122 @@
 {
-  "parent":"minecraft:item/handheld_rod",
+  "parent":"item/handheld_rod",
   "textures":{
-    "layer0":"minecraft:item/carrot_on_a_stick"
+    "layer0":"item/carrot_on_a_stick"
   },
-
   "overrides":[
-    {"predicate":{"custom_model_data":1}, "model":"keiba_assistant:item/whip_1"},
-    {"predicate":{"custom_model_data":2}, "model":"keiba_assistant:item/whip_2"},
-    {"predicate":{"custom_model_data":3}, "model":"keiba_assistant:item/whip_3"},
-    {"predicate":{"custom_model_data":4}, "model":"keiba_assistant:item/whip_4"},
-    {"predicate":{"custom_model_data":5}, "model":"keiba_assistant:item/whip_5"},
-    {"predicate":{"custom_model_data":6}, "model":"keiba_assistant:item/whip_6"},
-    {"predicate":{"custom_model_data":7}, "model":"keiba_assistant:item/whip_7"},
-    {"predicate":{"custom_model_data":8}, "model":"keiba_assistant:item/whip_8"},
-    {"predicate":{"custom_model_data":9}, "model":"keiba_assistant:item/whip_9"},
-    {"predicate":{"custom_model_data":10}, "model":"keiba_assistant:item/whip_10"},
-    {"predicate":{"custom_model_data":11}, "model":"keiba_assistant:item/whip_11"},
-    {"predicate":{"custom_model_data":12}, "model":"keiba_assistant:item/whip_12"},
-    {"predicate":{"custom_model_data":13}, "model":"keiba_assistant:item/whip_13"},
-    {"predicate":{"custom_model_data":14}, "model":"keiba_assistant:item/whip_14"},
-    {"predicate":{"custom_model_data":15}, "model":"keiba_assistant:item/whip_15"},
-    {"predicate":{"custom_model_data":16}, "model":"keiba_assistant:item/whip_16"},
-    {"predicate":{"custom_model_data":17}, "model":"keiba_assistant:item/whip_17"},
-    {"predicate":{"custom_model_data":18}, "model":"keiba_assistant:item/whip_18"},
-    {"predicate":{"custom_model_data":19}, "model":"minecraft:item/carrot_on_a_stick"}
+    {
+      "predicate":{
+        "custom_model_data":1
+      },
+      "model":"keiba_assistant:item/whip_1"
+    },
+    {
+      "predicate":{
+        "custom_model_data":2
+      },
+      "model":"keiba_assistant:item/whip_2"
+    },
+    {
+      "predicate":{
+        "custom_model_data":3
+      },
+      "model":"keiba_assistant:item/whip_3"
+    },
+    {
+      "predicate":{
+        "custom_model_data":4
+      },
+      "model":"keiba_assistant:item/whip_4"
+    },
+    {
+      "predicate":{
+        "custom_model_data":5
+      },
+      "model":"keiba_assistant:item/whip_5"
+    },
+    {
+      "predicate":{
+        "custom_model_data":6
+      },
+      "model":"keiba_assistant:item/whip_6"
+    },
+    {
+      "predicate":{
+        "custom_model_data":7
+      },
+      "model":"keiba_assistant:item/whip_7"
+    },
+    {
+      "predicate":{
+        "custom_model_data":8
+      },
+      "model":"keiba_assistant:item/whip_8"
+    },
+    {
+      "predicate":{
+        "custom_model_data":9
+      },
+      "model":"keiba_assistant:item/whip_9"
+    },
+    {
+      "predicate":{
+        "custom_model_data":10
+      },
+      "model":"keiba_assistant:item/whip_10"
+    },
+    {
+      "predicate":{
+        "custom_model_data":11
+      },
+      "model":"keiba_assistant:item/whip_11"
+    },
+    {
+      "predicate":{
+        "custom_model_data":12
+      },
+      "model":"keiba_assistant:item/whip_12"
+    },
+    {
+      "predicate":{
+        "custom_model_data":13
+      },
+      "model":"keiba_assistant:item/whip_13"
+    },
+    {
+      "predicate":{
+        "custom_model_data":14
+      },
+      "model":"keiba_assistant:item/whip_14"
+    },
+    {
+      "predicate":{
+        "custom_model_data":15
+      },
+      "model":"keiba_assistant:item/whip_15"
+    },
+    {
+      "predicate":{
+        "custom_model_data":16
+      },
+      "model":"keiba_assistant:item/whip_16"
+    },
+    {
+      "predicate":{
+        "custom_model_data":17
+      },
+      "model":"keiba_assistant:item/whip_17"
+    },
+    {
+      "predicate":{
+        "custom_model_data":18
+      },
+      "model":"keiba_assistant:item/whip_18"
+    },
+    {
+      "predicate":{
+        "custom_model_data":19
+      },
+      "model":"item/carrot_on_a_stick"
+    }
   ]
 }
