@@ -2,6 +2,7 @@
 ![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.3-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange)
 
 公開しているデータパックに必須のリソースパック
+基本的に後方互換性があるため、導入するデータパックの中で最新のバージョンのリソースパックを導入してください。
 - ~v3.0 1.17版
 - v4.0~ 1.18版(1.17での動作確認済み)
 - v5.0.0~ 1.18.2版
