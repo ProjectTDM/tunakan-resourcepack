@@ -1,8 +1,8 @@
 # tunakan-resourcepack <!-- ![ダウンロード数](https://img.shields.io/github/downloads/tunakaniri/tunakan-resourcepack/total) -->
 ![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.3-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange)
 
-公開しているデータパックに必須のリソースパック
-(x18(16)版は競馬アシスタントで18人版を使用する際に導入してください。なお、競馬アシスタントの内容以外は同一です。)
+公開しているデータパックに必須のリソースパック<br>
+(x18(16)版は競馬アシスタントで18人版を使用する際に導入してください。なお、競馬アシスタントの内容以外は同一です。)<br>
 基本的に後方互換性があるため、導入するデータパックの中で最新のバージョンのリソースパックを導入してください。
 - ~v3.0 1.17版
 - v4.0~ 1.18版(1.17での動作確認済み)
