@@ -37,7 +37,7 @@
   "advancements.shigen.nether.title":"資源ネザーへようこそ！",
   "advancements.shigen.nether.description":"整備されてない地獄を探検しよう！",
   "advancements.shigen.end.title":"資源エンドへようこそ！",
-  "advancements.shigen.end.description":"シュルカーたちと戦いつつエリトラを手に入れよう！\nまだ発見されていない船はたくさんあるぞ！(当鯖比)",
+  "advancements.shigen.end.description":"シュルカーたちと戦いつつエリトラを手に入れよう！\nまだ発見されていない船はたくさんあるぞ！",
   "tellraw.shigen.welcome":"%s資源ワールド",
   "item.logintime.bonussalmon.name":"ボーナス鮭とば",
   "item.logintime.overflow":"オーバーフローおめでとう！",
