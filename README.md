@@ -1,5 +1,5 @@
 # tunakan-resourcepack <!-- ![ダウンロード数](https://img.shields.io/github/downloads/tunakaniri/tunakan-resourcepack/total) -->
-![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.4-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange)
+![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.4,1.20.2-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange)
 
 公開しているデータパックに必須のリソースパック<br>
 (x18(16)版は競馬アシスタントで18人版を使用する際に導入してください。なお、競馬アシスタントの内容以外は同一です。)<br>
@@ -10,6 +10,7 @@
 - v5.1.0~ 1.19, 1.19.2版
 - v5.1.2~ 1.19.3版
 - v5.2.1~ 1.19.4版
+- v5.2.2~ 1.20.2版
 ## 謝辞
  鞭のテクスチャは「Minecraft Dungeons」を参考にしています(トレスはしてません)。
 ## ※注意
