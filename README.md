@@ -1,5 +1,8 @@
 # tunakan-resourcepack <!-- ![ダウンロード数](https://img.shields.io/github/downloads/tunakaniri/tunakan-resourcepack/total) -->
-![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.4,1.20.2-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange) [![Crowdin](https://badges.crowdin.net/tunakan-resourcepack/localized.svg)](https://crowdin.com/project/tunakan-resourcepack)
+<!-- interactable -->
+[![Crowdin](https://badges.crowdin.net/tunakan-resourcepack/localized.svg)](https://crowdin.com/project/tunakan-resourcepack)
+<!-- non-interactable -->
+![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.4,1.20.2-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange)
 
 公開しているデータパックに必須のリソースパック<br>
 (v5.2.0以前において、競馬アシスタントで18(16)人版を使用する際はx18(16)版を導入してください。なお、競馬アシスタントの内容以外は同一です。)<br>
